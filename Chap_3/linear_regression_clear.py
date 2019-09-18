@@ -1,6 +1,10 @@
 # -*- coding: utf-8 -*-
-# Copyright 2018 Huairuo.ai.
-# Author: Song Jiaqi(song.jiaqi@huairuo.ai)
+# Author  :   Ellen Song
+# Contact :
+# Project :   Learning-d2lai-pytorch
+# File    :   linear_regression_clear.py
+# Time    :   2019.09.16
+# Desc    :   Linear regression with pytorch.
 
 import torch
 

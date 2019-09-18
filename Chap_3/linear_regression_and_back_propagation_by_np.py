@@ -1,6 +1,11 @@
 # -*- coding: utf-8 -*-
-# Copyright 2018 Huairuo.ai.
-# Author: Song Jiaqi(song.jiaqi@huairuo.ai)
+# Author  :   Ellen Song
+# Contact :
+# Project :   Learning-d2lai-pytorch
+# File    :   linear_regression_and_back_propagation_by_np.py
+# Time    :   2019.09.16
+# Desc    :   Linear regression and back propagation with numpy.
+
 
 import numpy as np
 import torch
