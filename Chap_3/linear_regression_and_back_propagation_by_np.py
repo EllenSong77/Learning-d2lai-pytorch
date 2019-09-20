@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # Author  :   Ellen Song
-# Contact :
+# Contact :   bili_code@163.com
 # Project :   Learning-d2lai-pytorch
 # File    :   linear_regression_and_back_propagation_by_np.py
 # Time    :   2019.09.16
